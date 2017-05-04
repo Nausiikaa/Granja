@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cerdo()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cerdo\r\n
+comment1.params=
+comment1.target=void\ comer()
+comment2.params=
+comment2.target=int\ getPeso()
+comment2.text=\r\nM\u00C3\u00A9todo\ que\ devuelve\ el\ peso\ de\ los\ cerdos\ en\ kilogramos.\r\n
+comment3.params=
+comment3.target=int\ getPuntosDeVida()
+comment3.text=\r\n\ M\u00C3\u00A9todo\ abstracto\ que\ devuelve\ los\ puntos\ de\ vida\ actuales\ de\ los\ cerdos.\r\n
+comment4.params=
+comment4.target=void\ emitirSonidoCaracteristico()
+comment5.params=
+comment5.target=void\ vacunar()
+numComments=6
